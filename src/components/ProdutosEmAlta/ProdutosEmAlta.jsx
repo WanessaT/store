@@ -6,7 +6,8 @@ export function ProdutosEmAlta() {
     <>
       <div className='titulo-em-alta'>
         <h2 className='titulo-em-alta' id='titulo-prod-em-alta'>Produtos em alta</h2>
-        <a className='titulo-em-alta' id='ver-mais-produtos' href="#">Ver todos →</a>
+        <a className='titulo-em-alta' id='ver-mais-produtos' href="/Produtos">Ver todos →</a>
+
       </div>
       <div className='container-fluid' id='itens-1'>
 

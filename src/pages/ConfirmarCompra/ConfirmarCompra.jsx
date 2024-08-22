@@ -97,7 +97,7 @@ export function ConfirmarCompra() {
             <h2 className='tit-resumo'>RESUMO</h2>
             <hr id='linha-resumo' />
             <div className="resumo-do-pedido">
-              <img src="../src/image/tenis-mini-resumo.png" alt="Tenis adidas adicionado ao carrinho" />
+              <img src="../assets/tenis-mini-resumo.png" alt="Tenis adidas adicionado ao carrinho" />
               <p>Tênis Nike Revolution 6 Next Nature Masculino</p>
             </div>
             <hr id='linha-resumo' />

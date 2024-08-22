@@ -7,18 +7,18 @@ export function Footer() {
       <footer>
         <div id="fColunas">
           <div id="fColuna1">
-            <h2><img src="src\image\logo-branca.png" alt="Digital Store Logo" />Digital Store</h2>
+            <h2><img src="assets\logo-branca.png" alt="Digital Store Logo" />Digital Store</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
             <a className='redes' href="#">
-              <img src="src\image\icone-facebook.png" alt="Facebook"></img>
+              <img src="asstes\icone-facebook.png" alt="Facebook"></img>
             </a>
 
             <a className='redes' href="#">
-              <img src="src\image\icone-instagram.png" alt="Instagram"></img>
+              <img src="assets\icone-instagram.png" alt="Instagram"></img>
             </a>
 
             <a className='redes' href="#">
-              <img src="src\image\icone-twitter.png" alt="Twitter"></img>
+              <img src="assets\icone-twitter.png" alt="Twitter"></img>
             </a>
 
           </div>

@@ -23,7 +23,7 @@ export function ProductCard() {
                 <div className="cart-item">
                   <figure>
                     <img
-                      src="../src/image/tenis_revolution.png"
+                      src="../assets/tenis_revolution.png"
                       alt="Tênis Nike Revolution 6 Next Nature Masculino"
                     />
                   </figure>
@@ -120,7 +120,7 @@ export function ProductCard() {
                     <p className="discount1">30% OFF</p>
                     <img
                       className="img-item"
-                      src="../src/image/tenis-catalogo.png"
+                      src="../assets/tenis-catalogo.png"
                       alt=""
                     />
                   </div>
@@ -138,7 +138,7 @@ export function ProductCard() {
                     <p className="discount">30% OFF</p>
                     <img
                       className="img-item"
-                      src="../src/image/tenis-catalogo.png"
+                      src="../assets/tenis-catalogo.png"
                       alt=""
                     />
                   </div>
@@ -156,7 +156,7 @@ export function ProductCard() {
                     <p className="discount">30% OFF</p>
                     <img
                       className="img-item"
-                      src="../src/image/tenis-catalogo.png"
+                      src="../assets/tenis-catalogo.png"
                       alt=""
                     />
                   </div>
@@ -174,7 +174,7 @@ export function ProductCard() {
                     <p className="discount">30% OFF</p>
                     <img
                       className="img-item"
-                      src="../src/image/tenis-catalogo.png"
+                      src="../assets/tenis-catalogo.png"
                       alt=""
                     />
                   </div>

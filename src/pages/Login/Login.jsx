@@ -7,7 +7,7 @@ export function Login() {
   return (
     <>
       <header>
-        <Link to='/'><img className="lg-lg" src="src/image/logo-dc.png" alt="" /></Link>
+        <Link to='/'><img className="lg-lg" src="assets/logo-dc.png" alt="" /></Link>
       </header>
       <main>
         <div id="boxLogin">
@@ -34,13 +34,13 @@ export function Login() {
             </form>
             <div className="lgn-icons">
               <p>Ou faça login com</p>
-              <img src="src/image/gmail-login.png" alt="" />
-              <img src="src/image/facebook-login.png" alt="" />
+              <img src="assets/gmail-login.png" alt="" />
+              <img src="assets/facebook-login.png" alt="" />
             </div>
           </div>
         </div>
         <div className="tenis">
-          <img src="src/image/tenis-login.png" alt="" />
+          <img src="assets/tenis-login.png" alt="" />
         </div>
         
       </main>

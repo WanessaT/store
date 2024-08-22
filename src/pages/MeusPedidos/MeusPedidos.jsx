@@ -39,7 +39,7 @@ export function MeusPedidos() {
                     <div id='situacao-pedido'>
                         <div className='pedidos'>
                             <div className='pedido-unit'>
-                                <img src="../src/image/tenis-mini-resumo.png" alt="" />
+                                <img src="../assets/tenis-mini-resumo.png" alt="" />
                                 <div className='descricao-pedido-unit'>
                                     <p className='numero-pedido'>Pedido n° 2234981932</p>
                                     <p className='descricao-pedido'>Tênis Nike Revolution 6 Next Nature Masculino</p>
@@ -51,7 +51,7 @@ export function MeusPedidos() {
 
                         <div className='pedidos'>
                             <div className='pedido-unit'>
-                                <img src="../src/image/tenis-mini-resumo.png" alt="" />
+                                <img src="../assets/tenis-mini-resumo.png" alt="" />
                                 <div className='descricao-pedido-unit'>
                                     <p className='numero-pedido'>Pedido n° 2234981932</p>
                                     <p className='descricao-pedido'>Tênis Nike Revolution 6 Next Nature Masculino</p>
@@ -63,7 +63,7 @@ export function MeusPedidos() {
 
                         <div className='pedidos'>
                             <div className='pedido-unit'>
-                                <img src="../src/image/tenis-mini-resumo.png" alt="" />
+                                <img src="../assets/tenis-mini-resumo.png" alt="" />
                                 <div className='descricao-pedido-unit'>
                                     <p className='numero-pedido'>Pedido n° 2234981932</p>
                                     <p className='descricao-pedido'>Tênis Nike Revolution 6 Next Nature Masculino</p>
@@ -75,7 +75,7 @@ export function MeusPedidos() {
 
                         <div className='pedidos'>
                             <div className='pedido-unit'>
-                                <img src="../src/image/tenis-mini-resumo.png" alt="" />
+                                <img src="../assets/tenis-mini-resumo.png" alt="" />
                                 <div className='descricao-pedido-unit'>
                                     <p className='numero-pedido'>Pedido n° 2234981932</p>
                                     <p className='descricao-pedido'>Tênis Nike Revolution 6 Next Nature Masculino</p>
@@ -87,7 +87,7 @@ export function MeusPedidos() {
 
                         <div className='pedidos'>
                             <div className='pedido-unit'>
-                                <img src="../src/image/tenis-mini-resumo.png" alt="" />
+                                <img src="../assets/tenis-mini-resumo.png" alt="" />
                                 <div className='descricao-pedido-unit'>
                                     <p className='numero-pedido'>Pedido n° 2234981932</p>
                                     <p className='descricao-pedido'>Tênis Nike Revolution 6 Next Nature Masculino</p>

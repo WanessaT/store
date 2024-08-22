@@ -8,7 +8,7 @@ export function OfertaEspecial() {
 
                 <div className='oferta-especial1'>
                     <div className="img-oferta-especial">
-                        <img src="../src/image/oferta-especial.png" alt="" />
+                        <img src="assets/oferta-especial.png" alt="" />
                     </div>
                     <div className="textos-oferta-especial">
                         <p id="subtitulo-oferta-especial">Oferta especial</p>

@@ -14,10 +14,10 @@ export function Carrossel() {
                             <a className='ver-ofertas' href="">Ver Ofertas</a>
                         </div>
                         <img className='imagem-carrossel'
-                            src="../src/image/air-force-home.png"
+                            src="../assets/carrossel.png"
                             alt="Air-Force"
                         />
-                        <img src="../src/image/decoracao-carrossel.png" className='decoracao-carrossel' />
+                        <img src="../assets/decoracao-carrossel.png" className='decoracao-carrossel' />
                     </div>
                 </div>
             </main>

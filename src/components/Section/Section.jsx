@@ -17,7 +17,7 @@ export function Section() {
                 <h3 className='produto-em-oferta'>Novo drop<br/>Supreme</h3>
                 <a className='btn-destaque' href="#">Comprar</a>
               </div>
-              <img className='img-card' src="../src/image/camisa-destaques.png" alt="" />
+              <img className='img-card' src="../assets/camisa-destaques.png" alt="" />
             </div>
 
             <div className='card-2'>
@@ -26,7 +26,7 @@ export function Section() {
                 <h3 className='produto-em-oferta'>Coleção<br/> Adidas</h3>
                 <a className='btn-destaque' href="#">Comprar</a>
               </div>
-              <img className='img-card' src="../src/image/tenis-destaques.png" alt="" />
+              <img className='img-card' src="../assets/tenis-destaques.png" alt="" />
             </div>
 
             <div className='card-2'>
@@ -35,7 +35,7 @@ export function Section() {
                 <h3 className='produto-em-oferta'>Novo Beats<br/>Bass</h3>
                 <a className='btn-destaque' href="#">Comprar</a>
               </div>
-              <img className='img-card' src="../src/image/fone-destaques.png" alt="" />
+              <img className='img-card' src="../assets/fone-destaques.png" alt="" />
             </div>
 
           </div>
@@ -49,35 +49,35 @@ export function Section() {
           <div className='icones-destaque'>
             <div className='icones-colecao'>
               <div className='img-icone'>
-                <img src="../src/image/icone-destaques.png" alt="" />
+                <img src="../assets/icone-destaques.png" alt="" />
               </div>
               <p className='texto-icone'>Camisetas</p>
             </div>
 
             <div className='icones-colecao'>
               <div className='img-icone'>
-                <img src="../src/image/icone1-destaques.png" alt="" />
+                <img src="../assets/icone1-destaques.png" alt="" />
               </div>
               <p className='texto-icone'>Calças</p>
             </div>
 
             <div className='icones-colecao'>
               <div className='img-icone'>
-                <img src="../src/image/icone1-destaques.png" alt="" />
+                <img src="../assets/icone1-destaques.png" alt="" />
               </div>
               <p className='texto-icone'>Bonés</p>
             </div>
 
             <div className='icones-colecao'>
               <div className='img-icone'>
-                <img src="../src/image/icone2-destaques.png" alt="" />
+                <img src="../assets/icone2-destaques.png" alt="" />
               </div>
               <p className='texto-icone'>Headphones</p>
             </div>
 
             <div className='icones-colecao'>
               <div className='img-icone'>
-                <img src="../src/image/icone3-destaques.png" alt="" />
+                <img src="../assets/icone3-destaques.png" alt="" />
               </div>
               <p className='texto-icone'>Tênis</p>
             </div>

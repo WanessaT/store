@@ -8,7 +8,7 @@ export function Header() {
         <section className="header-main">
           <img
             className="logo"
-            src="src/image/logo-dc.png"
+            src="assets/logo-dc.png"
             alt="Digital Store"
           />
           <div className="search">
@@ -18,7 +18,7 @@ export function Header() {
               id=""
               placeholder="Pesquisar produto..."
             />
-            <img src="src/image/lupa.png" alt=""></img>
+            <img src="assets/lupa.png" alt=""></img>
           </div>
 
           <div className="register">
@@ -28,10 +28,10 @@ export function Header() {
                 <button className="button-login">Entrar</button>
               </a>{" "}</Link>
             </div>
-            <img className="cart" src="src/image/carrinho.png" alt="" />
+            <img className="cart" src="assets/carrinho.png" alt="" />
           </div>
           {/* <div className="cart">
-            <img src="src/image/carrinho.png" alt="" />
+            <img src="assets/carrinho.png" alt="" />
           </div> */}
         </section>
         <nav className="nav">

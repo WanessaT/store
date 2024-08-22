@@ -9,7 +9,7 @@ export function PaginaSucesso() {
       <Header/>
     <div class="container">
       <div class="success">
-        <img src="src/image/sucesso.png" alt="Ícone de confete"/>
+        <img src="assets/sucesso.png" alt="Ícone de confete"/>
         <h2>Compra Realizada com sucesso!</h2>
       </div>
       <div class="order-details">

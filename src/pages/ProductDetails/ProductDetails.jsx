@@ -12,7 +12,7 @@ return (
   <div className="container-5">
     <div className="content">
       <div className="product">
-        <img src='../src/image/air-force-detail.png'/>
+        <img src='../assets/air-force-detail.png'/>
           <div className="details">
             <h1>Tênis Nike Revolution 6 Next Nature Masculino</h1>
             <p>Casual | Nike | REF: 38416711</p>

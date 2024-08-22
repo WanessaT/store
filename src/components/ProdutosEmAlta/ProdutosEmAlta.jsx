@@ -13,7 +13,7 @@ export function ProdutosEmAlta() {
         <div className='produto-2'>
           <div className='imagem-produto'>
             <p className='discount1'>30% OFF</p>
-            <img className='img-item' src="../src/image/tenis-catalogo.png" alt="" />
+            <img className='img-item' src="../assets/tenis-catalogo.png" alt="" />
           </div>
           <div className='texto-produto'>
             <h4>Tênis</h4>
@@ -28,7 +28,7 @@ export function ProdutosEmAlta() {
         <div className='produto-2'>
           <div className='imagem-produto'>
             <p className='discount1'>30% OFF</p>
-            <img className='img-item' src="../src/image/tenis-catalogo.png" alt="" />
+            <img className='img-item' src="../assets/tenis-catalogo.png" alt="" />
           </div>
           <div className='texto-produto'>
             <h4>Tênis</h4>
@@ -43,7 +43,7 @@ export function ProdutosEmAlta() {
         <div className='produto-2'>
           <div className='imagem-produto'>
             <p className='discount'>30% OFF</p>
-            <img className='img-item' src="../src/image/tenis-catalogo.png" alt="" />
+            <img className='img-item' src="../assets/tenis-catalogo.png" alt="" />
           </div>
           <div className='texto-produto'>
             <h4>Tênis</h4>
@@ -58,7 +58,7 @@ export function ProdutosEmAlta() {
         <div className='produto-2'>
           <div className='imagem-produto'>
             <p className='discount'>30% OFF</p>
-            <img className='img-item' src="../src/image/tenis-catalogo.png" alt="" />
+            <img className='img-item' src="../assets/tenis-catalogo.png" alt="" />
           </div>
           <div className='texto-produto'>
             <h4>Tênis</h4>
@@ -73,7 +73,7 @@ export function ProdutosEmAlta() {
         <div className='produto-2'>
           <div className='imagem-produto'>
             <p className='discount'>30% OFF</p>
-            <img className='img-item' src="../src/image/tenis-catalogo.png" alt="" />
+            <img className='img-item' src="../assets/tenis-catalogo.png" alt="" />
           </div>
           <div className='texto-produto'>
             <h4>Tênis</h4>
@@ -88,7 +88,7 @@ export function ProdutosEmAlta() {
         <div className='produto-2'>
           <div className='imagem-produto'>
             <p className='discount'>30% OFF</p>
-            <img className='img-item' src="../src/image/tenis-catalogo.png" alt="" />
+            <img className='img-item' src="../assets/tenis-catalogo.png" alt="" />
           </div>
           <div className='texto-produto'>
             <h4>Tênis</h4>
@@ -103,7 +103,7 @@ export function ProdutosEmAlta() {
         <div className='produto-2'>
           <div className='imagem-produto'>
             <p className='discount'>30% OFF</p>
-            <img className='img-item' src="../src/image/tenis-catalogo.png" alt="" />
+            <img className='img-item' src="../assets/tenis-catalogo.png" alt="" />
           </div>
           <div className='texto-produto'>
             <h4>Tênis</h4>
@@ -118,7 +118,7 @@ export function ProdutosEmAlta() {
         <div className='produto-2'>
           <div className='imagem-produto'>
             <p className='discount'>30% OFF</p>
-            <img className='img-item' src="../src/image/tenis-catalogo.png" alt="" />
+            <img className='img-item' src="../assets/tenis-catalogo.png" alt="" />
           </div>
           <div className='texto-produto'>
             <h4>Tênis</h4>

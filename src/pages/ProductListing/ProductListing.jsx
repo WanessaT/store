@@ -115,12 +115,12 @@ export function ProductListing() {
           </div>
 
           {/* Lista de Produtos */}
-          <div className='container' id='itens'>
+          <div className='container-fluid d-flex flex-wrap' id='itens'>
             <Link style={{ textDecoration: 'none', color: 'black' }} to='/ProductDetails'>
               <div className='produto'>
                 <div className='imagem-produto'>
                   <p className='discount1'>30% OFF</p>
-                  <img className='img-item' src="../src/image/tenis-catalogo.png" alt="" />
+                  <img className='img-item' src="../assets/tenis-catalogo.png" alt="" />
                 </div>
                 <div className='texto-produto'>
                   <h4>Tênis</h4>
@@ -133,10 +133,11 @@ export function ProductListing() {
               </div>
             </Link>
 
-            <Link style={{ textDecoration: 'none', color: 'black' }} to='/ProductDetails'><div className='produto'>
+            <Link style={{ textDecoration: 'none', color: 'black' }} to='/ProductDetails'>
+            <div className='produto'>
               <div className='imagem-produto'>
                 <p className='discount1'>30% OFF</p>
-                <img className='img-item' src="../src/image/tenis-catalogo.png" alt="" />
+                <img className='img-item' src="../assets/tenis-catalogo.png" alt="" />
               </div>
               <div className='texto-produto'>
                 <h4>Tênis</h4>
@@ -151,7 +152,7 @@ export function ProductListing() {
             <Link style={{ textDecoration: 'none', color: 'black' }} to='/ProductDetails'><div className='produto'>
               <div className='imagem-produto'>
                 <p className='discount'>30% OFF</p>
-                <img className='img-item' src="../src/image/tenis-catalogo.png" alt="" />
+                <img className='img-item' src="../assets/tenis-catalogo.png" alt="" />
               </div>
               <div className='texto-produto'>
                 <h4>Tênis</h4>
@@ -166,7 +167,7 @@ export function ProductListing() {
             <Link style={{ textDecoration: 'none', color: 'black' }} to='/ProductDetails'><div className='produto'>
               <div className='imagem-produto'>
                 <p className='discount'>30% OFF</p>
-                <img className='img-item' src="../src/image/tenis-catalogo.png" alt="" />
+                <img className='img-item' src="../assets/tenis-catalogo.png" alt="" />
               </div>
               <div className='texto-produto'>
                 <h4>Tênis</h4>
@@ -182,7 +183,7 @@ export function ProductListing() {
               <div className='produto'>
                 <div className='imagem-produto'>
                   <p className='discount'>30% OFF</p>
-                  <img className='img-item' src="../src/image/tenis-catalogo.png" alt="" />
+                  <img className='img-item' src="../assets/tenis-catalogo.png" alt="" />
                 </div>
                 <div className='texto-produto'>
                   <h4>Tênis</h4>
@@ -198,7 +199,7 @@ export function ProductListing() {
             <Link style={{ textDecoration: 'none', color: 'black' }} to='/ProductDetails'><div className='produto'>
               <div className='imagem-produto'>
                 <p className='discount'>30% OFF</p>
-                <img className='img-item' src="../src/image/tenis-catalogo.png" alt="" />
+                <img className='img-item' src="../assets/tenis-catalogo.png" alt="" />
               </div>
               <div className='texto-produto'>
                 <h4>Tênis</h4>
@@ -213,7 +214,7 @@ export function ProductListing() {
             <Link style={{ textDecoration: 'none', color: 'black' }} to='/ProductDetails'><div className='produto'>
               <div className='imagem-produto'>
                 <p className='discount'>30% OFF</p>
-                <img className='img-item' src="../src/image/tenis-catalogo.png" alt="" />
+                <img className='img-item' src="../assets/tenis-catalogo.png" alt="" />
               </div>
               <div className='texto-produto'>
                 <h4>Tênis</h4>
@@ -228,7 +229,7 @@ export function ProductListing() {
             <Link style={{ textDecoration: 'none', color: 'black' }} to='/ProductDetails'><div className='produto'>
               <div className='imagem-produto'>
                 <p className='discount'>30% OFF</p>
-                <img className='img-item' src="../src/image/tenis-catalogo.png" alt="" />
+                <img className='img-item' src="../assets/tenis-catalogo.png" alt="" />
               </div>
               <div className='texto-produto'>
                 <h4>Tênis</h4>
@@ -243,7 +244,7 @@ export function ProductListing() {
             <Link style={{ textDecoration: 'none', color: 'black' }} to='/ProductDetails'><div className='produto'>
               <div className='imagem-produto'>
                 <p className='discount'>30% OFF</p>
-                <img className='img-item' src="../src/image/tenis-catalogo.png" alt="" />
+                <img className='img-item' src="../assets/tenis-catalogo.png" alt="" />
               </div>
               <div className='texto-produto'>
                 <h4>Tênis</h4>
@@ -258,7 +259,7 @@ export function ProductListing() {
             <Link style={{ textDecoration: 'none', color: 'black' }} to='/ProductDetails'><div className='produto'>
               <div className='imagem-produto'>
                 <p className='discount'>30% OFF</p>
-                <img className='img-item' src="../src/image/tenis-catalogo.png" alt="" />
+                <img className='img-item' src="../assets/tenis-catalogo.png" alt="" />
               </div>
               <div className='texto-produto'>
                 <h4>Tênis</h4>
@@ -273,7 +274,7 @@ export function ProductListing() {
             <Link style={{ textDecoration: 'none', color: 'black' }} to='/ProductDetails'><div className='produto'>
               <div className='imagem-produto'>
                 <p className='discount'>30% OFF</p>
-                <img className='img-item' src="../src/image/tenis-catalogo.png" alt="" />
+                <img className='img-item' src="../assets/tenis-catalogo.png" alt="" />
               </div>
               <div className='texto-produto'>
                 <h4>Tênis</h4>
@@ -290,7 +291,7 @@ export function ProductListing() {
             <Link style={{ textDecoration: 'none', color: 'black' }} to='/ProductDetails'><div className='produto'>
               <div className='imagem-produto'>
                 <p className='discount'>30% OFF</p>
-                <img className='img-item' src="../src/image/tenis-catalogo.png" alt="" />
+                <img className='img-item' src="../assets/tenis-catalogo.png" alt="" />
               </div>
               <div className='texto-produto'>
                 <h4>Tênis</h4>

@@ -10,7 +10,7 @@ export function Footer() {
             <h2><img src="assets\logo-branca.png" alt="Digital Store Logo" />Digital Store</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
             <a className='redes' href="#">
-              <img src="asstes\icone-facebook.png" alt="Facebook"></img>
+              <img src="assets\icone-facebook.png" alt="Facebook"></img>
             </a>
 
             <a className='redes' href="#">

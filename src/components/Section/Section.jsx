@@ -15,7 +15,7 @@ export function Section() {
               <div className='texto-card'>
                 <p className='desconto-produto'>30% OFF</p>
                 <h3 className='produto-em-oferta'>Novo drop<br/>Supreme</h3>
-                <a className='btn-destaque' href="#">Comprar</a>
+                <a className='btn-destaque' href="/Produtos">Comprar</a>
               </div>
               <img className='img-card' src="../assets/camisa-destaques.png" alt="" />
             </div>
@@ -24,7 +24,7 @@ export function Section() {
               <div className='texto-card'>
                 <p className='desconto-produto'>30% OFF</p>
                 <h3 className='produto-em-oferta'>Coleção<br/> Adidas</h3>
-                <a className='btn-destaque' href="#">Comprar</a>
+                <a className='btn-destaque' href="/Produtos">Comprar</a>
               </div>
               <img className='img-card' src="../assets/tenis-destaques.png" alt="" />
             </div>
@@ -33,7 +33,7 @@ export function Section() {
               <div className='texto-card'>
                 <p className='desconto-produto'>30% OFF</p>
                 <h3 className='produto-em-oferta'>Novo Beats<br/>Bass</h3>
-                <a className='btn-destaque' href="#">Comprar</a>
+                <a className='btn-destaque' href="/Produtos">Comprar</a>
               </div>
               <img className='img-card' src="../assets/fone-destaques.png" alt="" />
             </div>

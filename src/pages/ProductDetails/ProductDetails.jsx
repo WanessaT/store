@@ -2,6 +2,9 @@ import {Header} from '../../components/Header/Header'
 import { Link } from 'react-router-dom'
 import {Footer} from '../../components/Footer/Footer'
 import './ProductDetails.css'
+import { ProdutosEmAlta } from '../../components/ProdutosEmAlta/ProdutosEmAlta'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faStar, faStarHalf, faStarHalfAlt } from '@fortawesome/free-solid-svg-icons'
 
 export function ProductDetails(){
 
@@ -17,11 +20,11 @@ return (
             <h1>Tênis Nike Revolution 6 Next Nature Masculino</h1>
             <p>Casual | Nike | REF: 38416711</p>
             <div className="rating">
-              <i className="fas fa-star"></i>
-              <i className="fas fa-star"></i>
-              <i className="fas fa-star"></i>
-              <i className="fas fa-star"></i>
-              <i className="fas fa-star-half-alt"></i>
+              <FontAwesomeIcon icon={faStar} style={{ color: 'orange' }} />
+              <FontAwesomeIcon icon={faStar} style={{ color: 'orange' }} />
+              <FontAwesomeIcon icon={faStar} style={{ color: 'orange' }} />
+              <FontAwesomeIcon icon={faStar} style={{ color: 'orange' }} />
+              <FontAwesomeIcon icon={faStarHalfAlt} style={{ color: 'orange' }} />
               <span>(90 avaliações)</span>
             </div>
             <div className="price">
@@ -53,6 +56,7 @@ return (
       {/* ADD CARROSSEL */}
     </div>
   </div>
+  <ProdutosEmAlta />
   <Footer/>
   </>
   )
